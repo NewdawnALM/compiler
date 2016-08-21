@@ -33,7 +33,7 @@ public:
     std::map<Symbol, std::set<Symbol>> NonEndFollow;              // 非终结符 Follow 集
     std::map<Symbol, std::map<Symbol, int>> table;                // LL(1)分析表（预测分析表）
     PredictiveAnalysis(const std::vector<Production> &_grammar): grammar(_grammar) {   calculate();   }
-    ssize_t size() const {   return grammar.size();   }
+    size_t size() const {   return grammar.size();   }
     void showSymbolFirst() const;
     void showCandidateFirst() const;
     void showNonEndFollow() const;
