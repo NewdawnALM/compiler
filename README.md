@@ -5,15 +5,15 @@
 使用的是标准C++，没有用到任何外部库，因此在linux和windows下都可进行编译。<br>
 运行结果截图：<br><br>
 **编译和获取帮助信息：**
-<a href="" target="_blank"><img src="./pic/help.png"/></a><br>
+<a href="" target="_blank"><img src="./pictures/help.png"/></a><br>
 **查看文件内容：**
-<a href="" target="_blank"><img src="./pic/cat.png"/></a><br>
+<a href="" target="_blank"><img src="./pictures/cat.png"/></a><br>
 **预处理程序：**
-<a href="" target="_blank"><img src="./pic/pretreatment.png"/></a><br>
+<a href="" target="_blank"><img src="./pictures/pretreatment.png"/></a><br>
 **对程序进行词法分析后的结果：（部分截图）**
-<a href="" target="_blank"><img src="./pic/lexicalAnalysis.png"/></a><br>
+<a href="" target="_blank"><img src="./pictures/lexicalAnalysis.png"/></a><br>
 **文法分析的LL(1)各种表信息：**
-<a href="" target="_blank"><img src="./pic/predictiveAnalysis_1.png"/></a><br>
-<a href="" target="_blank"><img src="./pic/predictiveAnalysis_2.png"/></a><br>
-<a href="" target="_blank"><img src="./pic/predictiveAnalysis_3.png"/></a><br><br>
+<a href="" target="_blank"><img src="./pictures/predictiveAnalysis_1.png"/></a><br>
+<a href="" target="_blank"><img src="./pictures/predictiveAnalysis_2.png"/></a><br>
+<a href="" target="_blank"><img src="./pictures/predictiveAnalysis_3.png"/></a><br><br>
 输出格式可能稍微有点乱，已经尽可能调整过的了～
